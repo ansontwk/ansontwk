@@ -20,7 +20,9 @@
   <a href="https://www.snapgene.com/"><img alt="SnapGene" src ="https://img.shields.io/badge/-SnapGene-333333?style=flat"?></a>
   <a href="https://www.graphpad.com/scientific-software/prism/"><img alt="Graphpad PRISM" src ="https://img.shields.io/badge/-Graphpad%20PRISM-333333?style=flat"?></a>
   <a href="https://www.ibm.com/hk-en/products/spss-statistics/"><img alt="IBM SPSS" src ="https://img.shields.io/badge/-IBM SPSS-333333?style=flat"?></a>
-
+  <a href="https://blast.ncbi.nlm.nih.gov/Blast.cgi/"><img alt="BLAST" src ="https://img.shields.io/badge/-BLAST-333333?style=flat"?></a>
+  
+  
 - <h5>:camera_flash: &nbsp;Photography & Videography</h5>
   <a href="https://www.adobe.com/hk_en/products/photoshop-lightroom-classic.html"><img alt="Lightroom Classic" src="https://img.shields.io/badge/-Lightroom-333333?style=flat&logo=adobe-lightroom-classic"></a>
   <a href="https://www.adobe.com/hk_en/products/premiere.html"><img alt="Premiere Pro" src="https://img.shields.io/badge/-Premiere_Pro-333333?style=flat&logo=adobe-premiere-pro"></a>
